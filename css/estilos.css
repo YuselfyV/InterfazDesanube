@@ -1,0 +1,34 @@
+.table {
+    margin: auto !important;
+    width: 95% !important;                     
+}
+
+.buttons {
+    margin-left: 20px !important;
+}
+
+
+.table {
+    text-align: center !important;
+  }
+
+  .principal{
+    margin-top: 395px;
+    text-align: center !important;
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-shadow: 0 0 3px #7e7474, 0 0 5px #0000ff;   
+
+}   
+
+.rent{
+    font-size: 70px;
+}
+
+.input-group{
+    height: 55px;
+  
+}
+
+.btnmas{
+    height: 55px;
+}
